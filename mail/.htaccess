@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mail\.scenekey\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mail\.scenekey\.com$
+RewriteRule ^/?$ "http\:\/\/scenekey\.com\:2095" [R=301,L]
+

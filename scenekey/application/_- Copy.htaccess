@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /health_project/
+RewriteCond $1 !^(index\.php|public|bootstrap|media|robots\.txt)
+RewriteRule ^(.*)$ /health_project/index.php/$1 [L]

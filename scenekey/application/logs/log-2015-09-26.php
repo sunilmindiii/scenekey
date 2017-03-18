@@ -1,0 +1,1065 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:39 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:44 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:53:52 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:12 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:54:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:03 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:08 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:20 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:23 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:29 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:55:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 04:55:41 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 04:55:43 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:50 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:55 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:55:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:08 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:23 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:35 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:56:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:45 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:56:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:50 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:56:58 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:03 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:57:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:10 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:21 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:57:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:39 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:50 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:57:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:15 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:30 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:33 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:50 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:58:55 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:00 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:13 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:21 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 04:59:36 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:40 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:45 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:48 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 04:59:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:00 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:00:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:40 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:45 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:00:57 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:15 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:17 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:01:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:01:35 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:43 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:47 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:01:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:55 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:01:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:07 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 05:02:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:13 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:23 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:28 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:32 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:02:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:52 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:02:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:20 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:29 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:34 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:37 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:43 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:48 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:55 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:03:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:03:58 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 05:04:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:21 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:29 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:34 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:39 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:44 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:48 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:53 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Notice  --> Undefined variable: venues_true /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:57 --> Severity: Warning  --> in_array() expects parameter 2 to be array, null given /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 731
+ERROR - 2015-09-26 05:04:58 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: datetime /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 210
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 213
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 214
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 215
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 216
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 217
+ERROR - 2015-09-26 05:05:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:21 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 05:05:57 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 657
+ERROR - 2015-09-26 05:10:49 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 579
+ERROR - 2015-09-26 05:10:49 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 578
+ERROR - 2015-09-26 05:10:49 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 600
+ERROR - 2015-09-26 05:10:49 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 599
+ERROR - 2015-09-26 05:11:37 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 05:30:21 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 05:38:58 --> Severity: Notice  --> Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 1140
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 05:39:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:08:20 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 06:19:15 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 07:25:26 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 08:02:59 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 08:15:47 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 08:16:04 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 09:05:47 --> Severity: Notice  --> Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 1194
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:51 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:05:59 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:09:55 --> Severity: Notice  --> Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 1140
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 09:10:05 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 579
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 578
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 579
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 578
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 600
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 599
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: name /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 600
+ERROR - 2015-09-26 09:14:01 --> Severity: Notice  --> Undefined index: id /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 599
+ERROR - 2015-09-26 09:14:36 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 09:15:05 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 14:51:42 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:38:09 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 15:52:55 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 17:27:33 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 45
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 19:14:38 --> Severity: Notice  --> Undefined offset: 0 /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 56
+ERROR - 2015-09-26 20:08:05 --> Severity: Notice  --> Use of undefined constant WEB_ROOT - assumed 'WEB_ROOT' /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 1194
+ERROR - 2015-09-26 20:08:16 --> Severity: Notice  --> Undefined variable: data /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 161
+ERROR - 2015-09-26 20:10:19 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 20:10:19 --> Severity: Notice  --> Undefined variable: event_de /home/scenkey/public_html/screenkey/application/modules/event/controllers/webservices.php 47
+ERROR - 2015-09-26 22:05:15 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:20 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:36 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:41 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:05:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:05 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:10 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:15 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:20 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:25 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:32 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:41 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:06:57 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:13 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:29 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:34 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:39 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:44 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:49 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:07:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:29 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:34 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:39 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:44 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:49 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:08:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:08 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:13 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:18 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:23 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:28 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:33 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:43 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:48 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:09:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:36 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:41 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:10:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:01 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:06 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:11 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:16 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:21 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:32 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:51 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:11:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:17 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:21 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:26 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:32 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:46 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:12:56 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:17 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:32 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:13:57 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:17 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:22 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:27 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:31 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:37 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:42 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:47 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:52 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:14:57 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:02 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:07 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:12 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:17 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:23 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:28 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:33 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:38 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:43 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:49 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:15:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:19 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:24 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:29 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:34 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:39 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:44 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:49 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:54 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: datetime /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 210
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 213
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 214
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 215
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 216
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined index: venue /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 217
+ERROR - 2015-09-26 22:16:59 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:17:04 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:17:09 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196
+ERROR - 2015-09-26 22:17:14 --> Severity: Notice  --> Undefined variable: msg /home/scenkey/public_html/screenkey/application/modules/event/controllers/event.php 196

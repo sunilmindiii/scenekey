@@ -1,0 +1,145 @@
+<?php
+
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+
+class Administration extends MY_Controller {
+
+    function __construct() {
+        // Call the Model constructor
+        parent::__construct();
+    }
+
+    /* ------------- Admin Login Setion Start--------------- */
+    public function index() {
+        if (isset($_POST['submit'])) {
+            //print_r($_POST); //die;
+
+           /* $this->form_validation->set_rules($this->validation_rules ['AdminLogin']);
+            if ($this->form_validation->run()) {*/
+                $uname = $_POST['username'];
+                $upass = md5($_POST['password']);
+
+                $this->data['userDlt'] = $this->cm->userLoginCheck($uname, $upass, $utype = FALSE);
+
+                if ($this->data['userDlt']) {
+                    $this->session->set_userdata(array(
+                        'adminId' => $this->data['userDlt']->user_id,
+                        'adminName' => $this->data['userDlt']->user_first_name . ' ' . $this->data['userDlt']->user_last_name,
+                        'userType' => $this->data['userDlt']->utype_name,
+                    ));      //print_r($this->data['userDlt']); //die;
+                    redirect(base_url('admin/administration/home'));
+                } else {
+                    echo '<script>window.alert("Details are not authenticatesd!!! Try Again")
+                                window.location.href="' . base_url('admin/') . '";</script>';
+                }
+           /* } else {
+                echo $this->validation_errors();
+                redirect(base_url('admin/'));
+            }*/
+        }
+        //echo $this->db->last_query();
+        //die();
+
+        $this->load->view('admin/login');
+    }
+
+    /* ------------- Admin Login Setion End-------------- */
+    /* ------------- Admin Logout Setion Start -------------- */
+
+    public function logout() {
+        $this->session->sess_destroy();
+        redirect(base_url('admin/'));
+    }
+
+    /* ------------- Admin Logout Setion End-------------- */
+    /* ------------- Forget Password form page view start--------------- */
+
+    public function forgetPassword() {
+        $this->load->view('admin/adminUsers/forgot_password');
+    }
+
+    /* ------------- Forget Password form page view end------------- */
+    /* ------------- Admin Dashboard Setion Start------------- */
+
+    public function home() {
+        $this->adminCommonView('admin/index');
+    }
+
+    /* -------------- Admin Dashboard Setion End--------------- */
+    /* ---------------Manage/List of all Artists Setion Start --------------- */
+
+    public function artists_list() {
+		$this->data['artists'] = $this->cm->artists();
+        $this->adminCommonView('admin/artists/all_artists', $this->data);
+    }
+
+    /* ---------------Manage/List of all Artists Setion End --------------- */
+    /* ---------------Manage/List of all Vanues Setion Start --------------- */
+
+    public function vanues_list() {
+		$this->data['vanues'] = $this->cm->vanues();
+        $this->adminCommonView('admin/vanues/all_vanues', $this->data);
+    }
+
+    /* ---------------Manage/List of all Vanues Setion End --------------- */
+	/* ---------------Manage/List of all Vanues Categories Setion Start --------------- */
+
+    public function vanues_categories_list() {
+		$this->data['vanuesCategories'] = $this->cm->vanues_categories();
+        $this->adminCommonView('admin/vanues/all_vanue_categories', $this->data);
+    }
+
+    /* ---------------Manage/List of all Vanues Categories Setion End --------------- */
+	/* ---------------Manage/List of all City Setion Start --------------- */
+
+    public function city_list() {
+		$this->data['cities'] = $this->cm->cities();
+        $this->adminCommonView('admin/location/all_cities', $this->data);
+    }
+
+    /* ---------------Manage/List of all City Setion End --------------- */
+	/* ---------------Add new Event Start ------------------------------ */
+
+    public function add_event() {
+		$this->data['vanues'] = $this->cm->vanues();
+		$this->data['artists'] = $this->cm->artists();
+		
+			if(isset($_POST['submit']))
+			{
+				$options = array('data' => array(
+                        'event_name' => $this->input->post('eventName'),
+                        'event_short_name' => $this->input->post('eventShortName'),
+						'event_start_time' => $this->input->post('eventStartTime'),
+						'event_end_time' => $this->input->post('eventEndTime'),
+						'venue_id' => $this->input->post('vanueName'),
+						'artist_id' => $this->input->post('artistName'),
+						'event_pic' => $this->input->post('eventImage'),
+                        'event_created_by' => '',
+                        'event_create_at' => $this->currentDateTime, 
+						'datetime' => $this->input->post('adminId'), 
+						'event_date' => $this->input->post('eventDate'), 
+						'event_time' => $this->input->post('eventTime'),
+						'status' => $this->input->post('status'),
+                        'event_type' => ''                                                                
+                    ),
+                    'table' => 'events'
+                );
+                $data = $this->common_model->customInsert($options);
+
+			}
+        $this->adminCommonView('admin/events/add_event', $this->data);
+    }
+
+    /* ---------------Add new event End ---------------------------------- */
+	/* ---------------Manage/List of all Events Setion Start --------------- */
+
+    public function all_events() {
+		$this->data['events'] = $this->cm->events();
+        $this->adminCommonView('admin/events/all_events', $this->data);
+    }
+
+    /* ---------------Manage/List of all Events Setion End --------------- */
+}
+
+?>
